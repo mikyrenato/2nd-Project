@@ -14,7 +14,7 @@ html {
     border: none;
     outline: none;
     cursor: pointer;
-    font-size: 2rem;
+    font-size: 6rem;
     transition: 100ms;
   }
   
@@ -33,7 +33,7 @@ html {
   
   .result-score {
     margin-left: .1rem;
-    font-size: .5rem;
+    font-size: 1.5rem;
     color: #333;
   }
   
@@ -56,10 +56,13 @@ html {
     border: 3px solid #73AD21;
     padding: 10px;
     margin-top: 20px;
+    color: black;
+    font-size: 200%;
   }
 
   header {
     text-align: center;
+    font-size: 200%;
 }
 
 #result {
@@ -72,6 +75,8 @@ html {
     border: 3px solid #73AD21;
     padding: 10px;
     margin-top: 20px;
+    color: black;
+    font-size: 200%;
   }
 
   #par {
@@ -84,5 +89,9 @@ html {
     margin-right: 20px;
     background-color: #0a8d40;
     border-radius: 25px 0 25px 0;
-    font-size: 70%;
+    font-size: 100%;
+}
+
+li, p {
+  text-align: left;
 }
