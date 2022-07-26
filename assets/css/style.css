@@ -52,16 +52,13 @@ html {
     background-color:rgba(236, 231, 231, 0.808);
     border-radius: 25px;
     margin: auto;
-    width: 50%;
+    width: 70%;
     border: 3px solid #73AD21;
     padding: 10px;
     margin-top: 20px;
   }
 
   header {
-    height: 50px;
-    background-color: green;
-    color: white;
     text-align: center;
 }
 
@@ -71,8 +68,21 @@ html {
     background-color:rgba(236, 231, 231, 0.808);
     border-radius: 25px;
     margin: auto;
-    width: 50%;
+    width: 70%;
     border: 3px solid #73AD21;
     padding: 10px;
     margin-top: 20px;
   }
+
+  #par {
+    background-color: green;
+    color: white;
+    text-align: center;
+    margin-top: 20px;
+    margin-left: 20px;
+    border: 15px groove #0a8d40;
+    margin-right: 20px;
+    background-color: #0a8d40;
+    border-radius: 25px 0 25px 0;
+    font-size: 70%;
+}
