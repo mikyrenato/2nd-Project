@@ -115,3 +115,7 @@ li, p {
 h3 {
   text-align: center;
 }
+
+header {
+  font-size: 300%;
+}
